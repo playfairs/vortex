@@ -2,6 +2,7 @@
 
 >[!NOTE]
 > This is a public mirror of the initial source code, without the commit history. This repo will not be updated.
+> Anyone is allowed to fork, clone, or do whatever with the source code. I will no longer maintain vortex. Vortex will continue to run until Discord denies it of its intents.
 
 **Vortex** is an all-in-one Discord Bot written in Python using the Discord.py Library.
 
